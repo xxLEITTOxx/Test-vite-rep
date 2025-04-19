@@ -141,10 +141,6 @@ address {
 .address-task-requierement:focus {
   color: #404bbf;
 }
-.address-list {
-  /* display: flex;
-  gap: 40px; */
-}
 
 .body-header {
   background: #fff;
@@ -283,10 +279,6 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.list-item {
-  /* width: calc((100% - 72px) / 4); */
 }
 
 .section-team {
@@ -575,10 +567,6 @@ img {
   margin-bottom: 72px;
 }
 
-.soc-container {
-  /* margin: 0; */
-  /* margin-bottom: 72px; */
-}
 .backdrop {
   position: fixed;
   top: 0;
@@ -759,9 +747,6 @@ img {
   color: #8e8f99;
   display: flex;
   align-items: center;
-}
-
-.agreement-input {
 }
 
 .span-privacy {
